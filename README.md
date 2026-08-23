@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Pratham Raval 👋</h1>
 
-<!--
-**prathamraval-dev/prathamraval-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>Student • Curious builder • Still exploring what's next 🚀</em>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  Currently a student figuring out where my interests in tech will take me.
+  I like learning by building — expect a mix of experiments, half-finished ideas, and the occasional polished project here.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔭 What I'm up to
+
+- 🎓 Studying 
+- 🌱 Currently learning **[technology/skill you're learning]**
+- 🤔 Exploring different paths — web dev, data, mobile, you name it
+- 💼 Looking for **internship opportunities** — open to chat!
+- ⚡ Fun fact: [something fun about you]
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+**Tools & Tech**
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
