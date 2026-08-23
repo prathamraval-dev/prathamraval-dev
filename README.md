@@ -13,11 +13,10 @@
 
 ### 🔭 What I'm up to
 
-- 🎓 Studying 
-- 🌱 Currently learning **[technology/skill you're learning]**
-- 🤔 Exploring different paths — web dev, data, mobile, you name it
-- 💼 Looking for **internship opportunities** — open to chat!
-- ⚡ Fun fact: [something fun about you]
+- 🎓 B.Tech in Computer Science & Technology
+- 🌱 Currently learning **game development** and dabbling in **2D animation**
+- 🤔 Still exploring where I want to specialize — open to different paths
+- 💼 Open to **internship opportunities** — leaning toward things that mix code and creativity
 
 ---
 
@@ -35,6 +34,4 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
----
-
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
