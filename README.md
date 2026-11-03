@@ -14,7 +14,7 @@
 ### 🔭 What I'm up to
 
 - 🎓 B.Tech in Computer Science & Technology
-- 🌱 Currently learning **game development** and dabbling in **2D animation**
+- 🌱 Currently learning **game development**
 - 🤔 Still exploring where I want to specialize — open to different paths
 - 💼 Open to **internship opportunities** — leaning toward things that mix code and creativity
 
